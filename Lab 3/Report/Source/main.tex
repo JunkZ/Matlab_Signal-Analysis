@@ -38,12 +38,12 @@ Author \\
 \section{Exercises}
 \subsection{Exercise 1}
 Solved with the following two code blocks: \\
-x(t): \\
+\textbf{x(t):}
 \begin{lstlisting}
 function x = x(t)
     x = (3/2+3/10*sin(2*pi*t)+sin((2*pi)/3*t)-sin((2*pi)/10*t)).*sinc(t);
 \end{lstlisting}
-Plot: \\
+\textbf{And for the plot:}
 \begin{lstlisting}
 function Ex1 = Ex1()
     t = -5:0.1:5;
@@ -51,21 +51,21 @@ function Ex1 = Ex1()
     xlabel('t');
     ylabel('x(t)');
 \end{lstlisting}
-See figure \ref{fig:1} for the result. \\
+See figure \ref{fig:1} for the result.
 \begin{figure}
     \centering
     \includegraphics{1.png}
     \caption{Exercise 1}
     \label{fig:1}
 \end{figure}
-
 \subsection{Exercise 2}
-
-From the given expression of $x(t)$ we see that the upper angular frequency is $f_{max} = 2*pi$ and the lower frequency is $f_{min} = 2*pi/10$ the bandwidth of $x(t)$ is $f_1 = f_{max} - f_{min} = 2*pi-2*pi/10 = 9/10 = 0.9$\\
-The sampling theorem states that the sample rate $f_s = 1/T_s$ must be a minimum of $2f_{max}$. Since the maximum frequency is $f_{max} = 2*pi$ the frequency of sampling must be $1.8\pi.$ Where $T_s = 1/2$. \\
-
+From the given expression of $x(t)$ we see that the upper angular frequency is $f_{max} = 2*pi$ and the lower frequency is $f_{min} = 2*pi/10$, the bandwidth of $x(t)$ is then$f_1 = f_{max} - f_{min} = 2*pi-2*pi/10 = \frac{\pi9}{5} = 1.8\pi$ which gives us a bandwidth of $1.8\pi$. \\
+The sampling theorem states that the sample rate must be atleast two times larger then our max frequency $2\pi$, hence sampling rate must be atleast $4\pi$. And since $T_s = \frac{1}{f_s}$ means $T_s <= \frac{1}{4}$.
+Summary: The frequency of sampling must be $T_s = \frac{1}{4}$. And the bandwidth $1.8\pi$.
+ %\\
+%The sampling theorem states that the sample rate $f_s = 1/T_s$ must be a minimum of $2f_{max}$. Since the maximum frequency is $f_{max} = 2*pi$ 
 \subsection{Exercise 3}
-With the interval $T_s = 1/2$ an almost identical graphical representation of the original signal is shown, see figure \ref{fig:3}.
+With the interval $T_s = \frac{1}{4}$ an almost identical graphical representation of the original signal is shown, see figure \ref{fig:3}.
 \begin{figure}
     \centering
     \includegraphics{3.png}
@@ -74,7 +74,7 @@ With the interval $T_s = 1/2$ an almost identical graphical representation of th
 \end{figure}
 
 \subsection{Exercise 4}
-The sampling theorem specifies a minimum-sampling rate where a properly sampled signal can be reconstructed from the samples. The rate $T_s = 1/2$ that we solved in Exercise 2 will then be enough to reconstruct the signal.
+The sampling theorem specifies a minimum-sampling rate where a properly sampled signal can be reconstructed from the samples. The rate $T_s = \frac{1}{4}$ that we solved in Exercise 2 will then be enough to reconstruct the signal.
 
 \subsection{Exercise 5}
 The command $\textit{hold}$ in Matlab helps with drawing these figures you are about to see. By allowing us to draw over a already present plot helps us showcase continuous-time signals by using two instances to plot multiple functions.

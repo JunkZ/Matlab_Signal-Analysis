@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  29 MAY 2020 15:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  29 MAY 2020 20:18
 entering extended mode
-**"d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/main.tex"
-("d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/main.tex"
+**"d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/main.tex"
+("d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/main.tex"
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-05-15> (C:\Software\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -1034,7 +1034,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
-("d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\main.aux")
+("d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\Source\main.aux")
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -1134,7 +1134,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
- ("d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\main.out") ("d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\main.out")
+ ("d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\Source\main.out") ("d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\Source\main.out")
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
@@ -1167,7 +1167,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- ("d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\main.bbl")
+ ("d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\Source\main.bbl")
 Package biblatex Info: Reference section=0 on input line 34.
 Package biblatex Info: Reference segment=0 on input line 34.
 
@@ -1186,26 +1186,11 @@ File: ltu_swe.jpg Graphic file (type jpg)
 <use ltu_swe.jpg>
 Package pdftex.def Info: ltu_swe.jpg  used on input line 37.
 (pdftex.def)             Requested size: 102.42836pt x 55.13991pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--42
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
-
- []
-
 <1.png, id=29, 421.575pt x 316.18124pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
 Package pdftex.def Info: 1.png  used on input line 57.
 (pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
-
- []
-
 <3.png, id=31, 421.575pt x 316.18124pt>
 File: 3.png Graphic file (type png)
 <use 3.png>
@@ -1239,9 +1224,9 @@ Package pdftex.def Info: 5d.png  used on input line 104.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
 [1
 
-{C:/Users/klasm/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/ltu_swe.jpg>] [2 <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/1.png (PNG copy)> <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/3.png (PNG copy)>] [3 <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/5a.png (PNG copy)> <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/5b.png (PNG copy)>] [4 <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/5c.png (PNG copy)> <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/5d.png (PNG copy)>]
+{C:/Users/klasm/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/ltu_swe.jpg>] [2 <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/1.png (PNG copy)> <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/3.png (PNG copy)>] [3 <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/5a.png (PNG copy)> <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/5b.png (PNG copy)>] [4 <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/5c.png (PNG copy)> <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/5d.png (PNG copy)>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
- ("d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\main.aux")
+ ("d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\Source\main.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
 Package rerunfilecheck Info: File `main.out' has not changed.
@@ -1251,17 +1236,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23731 strings out of 480765
- 433464 string characters out of 2908564
- 1212277 words of memory out of 3000000
- 39409 multiletter control sequences out of 15000+200000
- 550046 words of font info for 74 fonts, out of 3000000 for 9000
+ 23733 strings out of 480765
+ 433598 string characters out of 2908564
+ 1213277 words of memory out of 3000000
+ 39410 multiletter control sequences out of 15000+200000
+ 550822 words of font info for 75 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,10n,55p,945b,4720s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\main.pdf" (4 pages, 243752 bytes).
+ 52i,10n,55p,952b,4720s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\Source\main.pdf" (4 pages, 251749 bytes).
 PDF statistics:
- 242 PDF objects out of 1000 (max. 8388607)
+ 265 PDF objects out of 1000 (max. 8388607)
  26 named destinations out of 1000 (max. 500000)
  84 words of extra memory for PDF output out of 10000 (max. 10000000)
 
