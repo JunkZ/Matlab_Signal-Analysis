@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  29 MAY 2020 20:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  31 MAY 2020 00:31
 entering extended mode
 **"d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/main.tex"
 ("d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/main.tex"
@@ -1238,15 +1238,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  23733 strings out of 480765
  433598 string characters out of 2908564
- 1213277 words of memory out of 3000000
+ 1214277 words of memory out of 3000000
  39410 multiletter control sequences out of 15000+200000
  550822 words of font info for 75 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,10n,55p,952b,4720s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\Source\main.pdf" (4 pages, 251749 bytes).
+ <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on "d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\Source\main.pdf" (4 pages, 269227 bytes).
 PDF statistics:
- 265 PDF objects out of 1000 (max. 8388607)
+ 275 PDF objects out of 1000 (max. 8388607)
  26 named destinations out of 1000 (max. 500000)
  84 words of extra memory for PDF output out of 10000 (max. 10000000)
 

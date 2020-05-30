@@ -59,7 +59,7 @@ See figure \ref{fig:1} for the result.
     \label{fig:1}
 \end{figure}
 \subsection{Exercise 2}
-From the given expression of $x(t)$ we see that the upper angular frequency is $f_{max} = 2*pi$ and the lower frequency is $f_{min} = 2*pi/10$, the bandwidth of $x(t)$ is then$f_1 = f_{max} - f_{min} = 2*pi-2*pi/10 = \frac{\pi9}{5} = 1.8\pi$ which gives us a bandwidth of $1.8\pi$. \\
+From the given expression of $x(t)$ we see that the maximum angular frequency is $w_{max} = 2\cdot\pi$ which equals in hertz: $w = 2\pi f \implies f = \frac{w}{2\pi} = \frac{2\pi}{2\pi} = 1$ Hz and the lower frequency is $w_{min} = \frac{2\cdot\frac{\pi}{10}}{2\pi} $ Hz, the bandwidth of $x(t)$ is then $f_1 = f_{max} - f_{min} = 2\cdot\pi-2\cdot\pi/10 = 2\pi w= 2\pi (\frac{2\pi}{2\pi} -\frac{2\cdot \frac{\pi}{10}}{2\pi})= 2\pi - 2\cdot\frac{\pi}{10} = \frac{\pi 9}{5} = 1.8\pi$. \\
 The sampling theorem states that the sample rate must be atleast two times larger then our max frequency $2\pi$, hence sampling rate must be atleast $4\pi$. And since $T_s = \frac{1}{f_s}$ means $T_s <= \frac{1}{4}$.
 Summary: The frequency of sampling must be $T_s = \frac{1}{4}$. And the bandwidth $1.8\pi$.
  %\\
