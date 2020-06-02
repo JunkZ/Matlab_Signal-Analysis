@@ -59,13 +59,26 @@ See figure \ref{fig:1} for the result.
     \label{fig:1}
 \end{figure}
 \subsection{Exercise 2}
-From the given expression of $x(t)$ we see that the maximum angular frequency is $w_{max} = 2\cdot\pi$ which equals in hertz: $w = 2\pi f \implies f = \frac{w}{2\pi} = \frac{2\pi}{2\pi} = 1$ Hz and the lower frequency is $w_{min} = \frac{2\cdot\frac{\pi}{10}}{2\pi} $ Hz, the bandwidth of $x(t)$ is then $f_1 = f_{max} - f_{min} = 2\cdot\pi-2\cdot\pi/10 = 2\pi w= 2\pi (\frac{2\pi}{2\pi} -\frac{2\cdot \frac{\pi}{10}}{2\pi})= 2\pi - 2\cdot\frac{\pi}{10} = \frac{\pi 9}{5} = 1.8\pi$. \\
-The sampling theorem states that the sample rate must be atleast two times larger then our max frequency $2\pi$, hence sampling rate must be atleast $4\pi$. And since $T_s = \frac{1}{f_s}$ means $T_s <= \frac{1}{4}$.
-Summary: The frequency of sampling must be $T_s = \frac{1}{4}$. And the bandwidth $1.8\pi$.
- %\\
+We start by solving the spectrum for $x(t)$:
+\begin{align*}
+    x(t) &= [\frac{3}{2} + \frac{3}{10}sin(2\pi t)+sin(\frac{2\pi}{3}t)-sin(\frac{2\pi}{10}t))]sinc(t)\\
+     &=  [\frac{3}{2}+\frac{3}{10}\frac{1}{2j}(e^{j2\pi t}-e^{-j2\pi t})+\frac{1}{2j}(e^{j\frac{2\pi}{3} t}-e^{-j\frac{2\pi}{3} t})+\frac{1}{2j}(e^{j\frac{2\pi}{10} t}-e^{-j\frac{2\pi}{10} t}))]\frac{1}{\pi t}\frac{1}{2j}(e^{j\pi t}-e^{-j\pi t})\textit{ (Euler's Formula)}\\
+     &= [\frac{3}{2}+\frac{3}{20 j}(e^{j2\pi t}-e^{-j2\pi t})+\frac{1}{2 j}(e^{j\frac{2}{3}\pi t}-e^{-j\frac{2}{3}\pi t})-\frac{1}{2j}(e^{j\frac{1}{5}\pi t}-e^{-j\frac{1}{5}\pi t})]\frac{1}{2j}(e^{j\pi t}-e^{-j\pi t}) \\
+     &=  \frac{3}{4j\pi t}(e^{j\pi t}-e^{-j\pi t})-\frac{3}{40\pi t}(e^{j\pi t}-e^{-j\pi t})(e^{j2\pi t}-e^{-j2\pi t})+\frac{1}{4\pi t}(e^{j\pi t}-e^{-j\pi t})(e^{j\frac{2}{3}\pi t}-e^{-j\frac{2}{3}\pi t}) \\
+     &+\frac{1}{4\pi t}(e^{j\pi t}-e^{-j\pi t})(e^{j\frac{1}{5}\pi t}-e^{-j\frac{1}{5}\pi t}) \\
+     &= \frac{3}{4j\pi t}(e^{j\pi t}-e^{-j\pi t})-\frac{3}{40\pi t}(e^{j\pi t}-e^{-j\pi t}+e^{3j\pi t}-e^{-3j\pi t}))+\frac{1}{4\pi t}(e^{j\pi t}-e^{-j\pi t}+e^{j\frac{5\pi}{3} t}-e^{-j\frac{5\pi}{3} t}) \\
+     &+\frac{1}{4\pi t}(e^{j\pi t}-e^{-j\pi t}+e^{j\frac{6\pi}{5} t}-e^{-j\frac{6\pi}{5} t})
+  \end{align*}
+  
+From the last equation, we see that the maximum angular frequency is $w_{max} = 3\pi \text{ rad/s}$ which, after converting, gives us$ f_{max} = 1.5 Hz$. The minimum angular frequency is $w_{min} = \frac{6}{5}\pi \text{ rad/s} \implies f_{min} = 0.6 Hz$. \\
+The bandwidth of $x(t)$ is then $f_{max}-f_{min} = 1.5-0.6 = 0.9 Hz$.\\
+The sampling theorem states that the sample rate must be atleast two times larger then our max frequency $1.5 Hz$, hence sampling rate must be atleast $3 Hz$. To achieve this rate of samples the time $T_s$ must be $f=\frac{1}{T_s} \implies T_s = \frac{1}{f} = \frac{1}{3}$. \\
+ \\
+ $\therefore T_s = \frac{1}{3}$s and the bandwidth $ = 0.9 Hz$
+%\\
 %The sampling theorem states that the sample rate $f_s = 1/T_s$ must be a minimum of $2f_{max}$. Since the maximum frequency is $f_{max} = 2*pi$ 
 \subsection{Exercise 3}
-With the interval $T_s = \frac{1}{4}$ an almost identical graphical representation of the original signal is shown, see figure \ref{fig:3}.
+With the interval $T_s = \frac{1}{3}$ an almost identical graphical representation of the original signal is shown, see figure \ref{fig:3}.
 \begin{figure}
     \centering
     \includegraphics{3.png}

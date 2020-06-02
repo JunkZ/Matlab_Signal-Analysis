@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  31 MAY 2020 00:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  2 JUN 2020 02:18
 entering extended mode
 **"d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/main.tex"
 ("d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/main.tex"
@@ -1191,44 +1191,49 @@ File: 1.png Graphic file (type png)
 <use 1.png>
 Package pdftex.def Info: 1.png  used on input line 57.
 (pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
-<3.png, id=31, 421.575pt x 316.18124pt>
-File: 3.png Graphic file (type png)
-<use 3.png>
-Package pdftex.def Info: 3.png  used on input line 71.
-(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--82
+Underfull \hbox (badness 10000) in paragraph at lines 73--80
 
  []
 
-<5a.png, id=39, 421.575pt x 316.18124pt>
-File: 5a.png Graphic file (type png)
-<use 5a.png>
-Package pdftex.def Info: 5a.png  used on input line 85.
+<3.png, id=31, 421.575pt x 316.18124pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 84.
 (pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
-<5b.png, id=40, 421.575pt x 316.18124pt>
-File: 5b.png Graphic file (type png)
-<use 5b.png>
-Package pdftex.def Info: 5b.png  used on input line 92.
-(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
-<5c.png, id=41, 421.575pt x 316.18124pt>
-File: 5c.png Graphic file (type png)
-<use 5c.png>
-Package pdftex.def Info: 5c.png  used on input line 98.
-(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
-<5d.png, id=42, 421.575pt x 316.18124pt>
-File: 5d.png Graphic file (type png)
-<use 5d.png>
-Package pdftex.def Info: 5d.png  used on input line 104.
-(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
 [1
 
-{C:/Users/klasm/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/ltu_swe.jpg>] [2 <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/1.png (PNG copy)> <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/3.png (PNG copy)>] [3 <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/5a.png (PNG copy)> <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/5b.png (PNG copy)>] [4 <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/5c.png (PNG copy)> <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/5d.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
+{C:/Users/klasm/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/ltu_swe.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 93--95
+
+ []
+
+<5a.png, id=71, 421.575pt x 316.18124pt>
+File: 5a.png Graphic file (type png)
+<use 5a.png>
+Package pdftex.def Info: 5a.png  used on input line 98.
+(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
+<5b.png, id=72, 421.575pt x 316.18124pt>
+File: 5b.png Graphic file (type png)
+<use 5b.png>
+Package pdftex.def Info: 5b.png  used on input line 105.
+(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
+<5c.png, id=73, 421.575pt x 316.18124pt>
+File: 5c.png Graphic file (type png)
+<use 5c.png>
+Package pdftex.def Info: 5c.png  used on input line 111.
+(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
+<5d.png, id=74, 421.575pt x 316.18124pt>
+File: 5d.png Graphic file (type png)
+<use 5d.png>
+Package pdftex.def Info: 5d.png  used on input line 117.
+(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 124.
+[2 <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/1.png (PNG copy)>] [3 <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/3.png (PNG copy)> <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/5a.png (PNG copy)>] [4 <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/5b.png (PNG copy)> <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/5c.png (PNG copy)>] [5 <d:/OneDrive/Documents/Studies/University courses/S0004E Signaler och system/Labs/Lab 3/Report/Source/5d.png (PNG copy)>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
  ("d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\Source\main.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 124.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: CE26899B014DB88CB52B5F9E93CA64F2;339.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -1236,17 +1241,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23733 strings out of 480765
- 433598 string characters out of 2908564
- 1214277 words of memory out of 3000000
+ 23734 strings out of 480765
+ 433604 string characters out of 2908564
+ 1216277 words of memory out of 3000000
  39410 multiletter control sequences out of 15000+200000
  550822 words of font info for 75 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,10n,55p,952b,4720s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on "d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\Source\main.pdf" (4 pages, 269227 bytes).
+ <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\klasm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Software/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on "d:/OneDrive\Documents\Studies\University courses\S0004E Signaler och system\Labs\Lab 3\Report\Source\main.pdf" (5 pages, 284515 bytes).
 PDF statistics:
- 275 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
+ 291 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
  84 words of extra memory for PDF output out of 10000 (max. 10000000)
 
