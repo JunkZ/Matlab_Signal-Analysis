@@ -12,6 +12,6 @@ The main report is found the report folder for each lab.
 
 ## Exercises
 
-The exercises come from the questions under the respective file "S0004E_labx.pdf". These might be missing
+The exercises come from the questions from the files "Exercise #.pdf" in each labs "Exercise" folder. 
 
 
