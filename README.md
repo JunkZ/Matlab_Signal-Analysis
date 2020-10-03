@@ -4,7 +4,7 @@ Compilation of MATLAB exercises completed.
 
 ## Functions
 
-The functions programmed in MATLAB associated with the respective exercise is founder under the folder \Functions in each of the lab project folders.
+The functions programmed in MATLAB associated with the respective exercise is found under the folder \Functions in each of the lab project folders.
 
 ## Report
 
